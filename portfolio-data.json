@@ -1,195 +1,222 @@
 {
   "settings": {
-    "name": "Ankit",
-    "title": "Software Developer",
-    "location": "India",
-    "summary": "Focused on building reliable backend systems, REST APIs, and scalable architectures with Node.js, MongoDB, and AWS",
-    "profileImage": "https://iili.io/fumhEkG.jpg"
+    "name": "Vineet Kumar",
+    "title": "Full Stack Developer",
+    "location": "Ghaziabad, Uttar Pradesh, India",
+    "summary": "Passionate full stack developer focused on MERN stack, AI-powered applications, blockchain systems, and immersive futuristic web experiences.",
+    "profileImage": "/resume.jpeg"
   },
   "sections": {
     "hero": {
       "enabled": true,
       "ctaButtons": [
         {
-          "text": "Get In Touch",
-          "url": "mailto:ankit221601@gmail.com"
+          "text": "Contact Me",
+          "url": "mailto:mysteriousid2573@gmail.com"
         },
         {
           "text": "View Resume",
-          "url": "https://drive.google.com/file/d/18tL5rC9iSNrJ_7DvGHsBHuj6hmSKmezu/view"
+          "url": "https://drive.google.com/file/d/16I5yhKpT6Ir4kM0VWCs5GQ8dbkzSBCjr/view?usp=sharing"
         }
       ]
     },
+
     "about": {
       "enabled": true,
       "skills": {
         "enabled": true,
         "title": "Technical Skills",
         "items": [
-          "JavaScript",
-          "TypeScript",
           "Java",
+          "JavaScript",
+          "SQL",
           "React.js",
-          "Next.js",
-          "Express.js",
+          "HTML5",
+          "CSS3",
+          "Tailwind CSS",
           "Node.js",
+          "Express.js",
+          "Mongoose",
           "MongoDB",
-          "REST",
-          "Postman",
-          "Github",
-          "Jest",
-          "Cypress",
-          "AWS",
-          "Datadog",
-          "Genie",
+          "MySQL",
           "Git",
-          "Vercel",
-          "Docker",
-          "Jenkins",
-          "JIRA",
-          "Nginx",
-          "Agile Development"
+          "GitHub",
+          "Cursor",
+          "DSA",
+          "Operating Systems",
+          "DBMS",
+          "OOP"
         ]
       }
     },
+
     "experience": {
       "enabled": true,
-      "title": "Work Experience",
+      "title": "Journey & Hackathons",
       "items": [
         {
-          "company": "SriTek",
-          "position": "SDE Intern",
-          "period": "Aug 2025 - Dec 2025",
+          "company": "Self Learning & Development",
+          "position": "Full Stack Development Journey",
+          "period": "2023 - Present",
           "description": [
-            "Engineered and enhanced user-facing Data Privacy and EFP-based cookie consent modules, improving compliance workflows across 10,000+ global users",
-            "Worked across end-to-end SDLC with PR-based workflows, CI/CD pipelines (Jenkins, Harness), and staged deployments.",
-            "Developed and maintained test suites using Jest and Cypress, increasing test coverage by 30%.",
-            "Monitored and debugged production issues using Datadog and Genie, analyzing 4xx/5xx errors, logs, and API failures."
-          ]
-        },
-        {
-          "company": "KaaryaSetu",
-          "position": "Frontend Developer Intern",
-          "period": "May 2025 - Aug 2025",
-          "description": [
-            "Revamped froontend architecture to enhance page load speed by 0.5s, boosting user experience .",
-            "Transaled user feedback into actionable UI/UX improvements, streamining dashboard navigation and increasing user engagement by 20%.",
-            "Built an admin dashboard in React + TypeScript for managing thousands of users."
+            "Built multiple real-world full stack projects using MERN stack technologies.",
+            "Explored AI-powered applications and blockchain-based systems.",
+            "Participated in multiple hackathons and collaborative coding events.",
+            "Focused on modern UI/UX experiences and scalable web applications."
           ]
         }
       ]
     },
+
     "projects": {
       "enabled": true,
       "title": "Featured Projects",
       "items": [
         {
-          "title": "ResumeIQ",
-          "description": "AI-powered ATS Resume Analyzer using React, TypeScript, and Supabase; supports 10+ templates with real-time scoring, attracting 1,000+ users and 5,000+ page views.",
+          "title": "AI Resume Builder",
+          "description": "AI-powered resume builder with ATS optimization, Gemini AI integration, secure authentication, real-time preview, and shareable resume links.",
           "tags": [
-            "React.js",
-            "TypeScript",
-            "Supabase",
-            "PostgreSQL",
-            "Tailwind CSS",
-            "shadcn/ui",
-            "AI Integration",
-            "Gemini API"
-          ],
-          "previewUrl": "https://resumeiq-by-ankit.vercel.app/",
-          "repoUrl": "https://github.com/helloankitpandey/ResumeIQ"
-        },
-        {
-          "title": "Study Notion",
-          "description": "Ed-tech platform for creating and rating content with full auth; integrated Razorpay for payments and validated flows via Postman.",
-          "tags": [
-            "MongoDB",
-            "Express.js",
             "React.js",
             "Node.js",
-            "Tailwind CSS",
-            "Cloudinary"
+            "Express.js",
+            "MongoDB",
+            "Gemini API",
+            "JWT",
+            "ImageKit"
           ],
-          "previewUrl": "https://studynotion-by-ankit.vercel.app/",
-          "repoUrl": "https://github.com/helloankitpandey/StudyNotion"
+          "previewUrl": "https://jioresume.com/",
+          "repoUrl": "https://github.com/Vineet6581/AI-Resume-Builder"
+        },
+
+        {
+          "title": "VeriDoc",
+          "description": "Blockchain-based decentralized certificate verification system using Ethereum smart contracts, IPFS storage, QR-based access, and real-time validation.",
+          "tags": [
+            "Ethereum",
+            "IPFS",
+            "MetaMask",
+            "Prisma",
+            "Docker",
+            "PostgreSQL",
+            "Stripe"
+          ],
+          "previewUrl": "https://veridoc-rvn.vercel.app/",
+          "repoUrl": "https://github.com/Vineet6581/Veridoc"
+        },
+
+        {
+          "title": "Travel Experiences & Booking Platform",
+          "description": "Responsive travel booking platform with modern UI/UX, interactive booking workflows, reusable components, and smooth navigation experience.",
+          "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Responsive Design",
+            "UI/UX"
+          ],
+          "previewUrl": "https://fuel-mind-travels.vercel.app/",
+          "repoUrl": "https://github.com/Vineet6581/Travel-Experiences-Bookings-Platform"
         }
       ]
     },
+
     "education": {
       "enabled": true,
       "title": "Education",
       "items": [
         {
-          "institution": "Feroze Gandhi Institute Of Engineering And Technology",
-          "degree": "BTech - Computer Science and Engineering (CGPA: 7.9/10)",
-          "period": "2022 - 2026"
+          "institution": "ABES Engineering College",
+          "degree": "B.Tech - Information Technology (CGPA: 7.86)",
+          "period": "2023 - 2027"
         },
+
         {
-          "institution": "St. Xavier's School",
-          "degree": "Class XII (PCM) • 90.2% (School Topper)",
-          "period": "2018 - 2020"
+          "institution": "Crescent Convent Senior Secondary School",
+          "degree": "Higher Secondary School Certificate (CBSE)",
+          "period": "2022"
         }
       ]
     },
-    "achievements": {
-      "enabled": true,
-      "title": "Achievements & Leadership",
-      "items": [
-        {
-          "title": "Solved 500+ DSA problems with strong problem-solving skills",
-          "description": ""
-        },
-        {
-          "title": "Built and deployed full-stack applications used by 500+ users",
-          "description": ""
-        },
-        {
-          "title": "Secured AIR 473 in Indian Navy AA/SSR (Top 5%)",
-          "description": ""
-        },
-        {
-          "title": "Ranked in top 2.5% in NDA Examination",
-          "description": ""
-        },
-        {
-          "title": "School Topper (Class XII) and academic topper in B.Tech",
-          "description": ""
-        }
-      ]
+
+"achievements": {
+  "enabled": true,
+  "title": "Achievements",
+  "items": [
+    {
+      "title": "Solved 100+ DSA Problems",
+      "description": "Focused on problem solving and algorithmic thinking."
     },
+
+    {
+      "title": "Built Real-World Full Stack Projects",
+      "description": "Developed scalable MERN, AI-powered and blockchain-based applications."
+    },
+
+    {
+      "title": "Participated in Multiple Hackathons",
+      "description": "Worked on innovative and collaborative development projects."
+    }
+  ]
+},
+
+"certifications": {
+  "enabled": true,
+  "title": "Certifications",
+  "items": [
+    {
+      "title": "NPTEL IoT & Industry 4.0",
+      "issuer": "NPTEL",
+      "description": "Completed certification course in IoT and Industry 4.0 technologies."
+    },
+
+    {
+      "title": "Google Cloud Computing Foundations",
+      "issuer": "Google Cloud",
+      "description": "Learned cloud fundamentals and deployment concepts."
+    },
+
+    {
+      "title": "Generative AI Workshop",
+      "issuer": "IIT Workshop",
+      "description": "Hands-on exposure to AI and generative models."
+    }
+  ]
+},
+
     "contact": {
       "enabled": true,
       "title": "Contact",
-      "email": "ankit221601@gmail.com",
-      "phone": "+91 9084963219",
-      "location": "India"
+      "email": "mysteriousid2573@gmail.com",
+      "phone": "+91 9528058556",
+      "location": "Ghaziabad, Uttar Pradesh, India"
     },
+
     "social": {
       "enabled": true,
       "items": [
         {
           "platform": "linkedin",
-          "url": "https://www.linkedin.com/in/helloankit-pandey-/",
-          "icon": "linkedin"
+          "url": "https://www.linkedin.com/in/vineet-kumar-02634a326"
         },
+
         {
           "platform": "github",
-          "url": "https://github.com/helloankitpandey/",
-          "icon": "github"
+          "url": "https://github.com/Vineet6581"
         },
+
         {
           "platform": "leetcode",
-          "url": "https://leetcode.com/u/ankii2216/",
-          "icon": "leetcode"
+          "url": "https://leetcode.com/u/Vineet6581/"
         }
       ]
     },
+
     "navigation": {
       "enabled": true,
       "items": [
         { "name": "Home", "url": "/" },
         { "name": "About", "url": "#about" },
-        { "name": "Experience", "url": "#experience" },
+        { "name": "Journey", "url": "#experience" },
         { "name": "Projects", "url": "#projects" },
         { "name": "Education", "url": "#education" },
         { "name": "Contact", "url": "#contact" }
